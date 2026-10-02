@@ -7,3 +7,4 @@ Static GitHub Pages site for the March 27–April 3, 2027 St. John trip.
 - `.nojekyll` is included so GitHub Pages serves the site directly
 
 Future edits can update `index.html`; the live Pages site will republish from the same repository.
+<!-- trigger Pages rebuild -->
